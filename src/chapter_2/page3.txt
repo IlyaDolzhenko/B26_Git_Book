@@ -9,3 +9,8 @@ they commit and push on their computer
 
 
 learning how to pull
+
+
+now we aded some changes to our page 3
+to see updates on IDE
+
