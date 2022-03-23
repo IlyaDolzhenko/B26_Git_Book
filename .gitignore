@@ -2,3 +2,4 @@
 *.iml
 *.xml
 out (Usiially needs to be ignored too)
+secret.txt
